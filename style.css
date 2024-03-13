@@ -1,0 +1,24 @@
+py-script {
+  color: blueviolet;
+  display: flex;
+  justify-content: space-around;
+  font-size: 2em;
+}
+body {
+  background-color: rgb(186, 139, 230);
+  border-top: 20px solid rgb(152, 78, 170);
+}
+.img {
+  height: 100%;
+  width: 100%;
+}
+.video {
+  display: flex;
+  justify-content: space-around;
+}
+h1 {
+  color: blueviolet;
+  display: flex;
+  justify-content: space-around;
+  font-size: 2em;
+}
